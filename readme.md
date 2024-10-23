@@ -116,7 +116,7 @@ Enjoy!
 - Read [Good Design is Easily-Learned](http://blog.scottbellware.com/2009/01/good-design-is-easily-learned.html)
 - Exercise: Try to learn and repeat these Code Kata autonomously
   - [The Bowling Game Kata](http://butunclebob.com/ArticleS.UncleBob.TheBowlingGameKata)
-  - [The Roman Numerals Kata](http://www.codekatas.org/casts/roman-numerals-kata-with-audio-commentary)
+  - [The Roman Numerals Kata](https://www.youtube.com/watch?v=QR0v70g1jVk) 
 - Watch [Unit Testing](https://www.youtube.com/watch?v=wEhu57pih5w)
 - Read [Growing Object Oriented Software, Guided by Tests](http://www.growing-object-oriented-software.com/)
   - Chapter 6: Object-Oriented Style
@@ -138,7 +138,7 @@ Principles and Practices are not dependent on any particular programming languag
 
 Now that you have learned something about _the good principles and practices of software development_, try to grab a new programming language which you never used before and try to repeat some of the Code Katas you already have done previously:
 
-- [Fizz Buzz Kata](http://codingdojo.org/cgi-bin/index.pl?KataFizzBuzz)
+- [Fizz Buzz Kata](https://www.codurance.com/katas/fizzbuzz)
 - [The Bowling Game Kata](http://butunclebob.com/ArticleS.UncleBob.TheBowlingGameKata)
 - [String Calculator Kata](http://osherove.com/tdd-kata-1/)
 - [The Roman Numerals Kata](http://www.codekatas.org/casts/roman-numerals-kata-with-audio-commentary)
